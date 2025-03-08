@@ -9,7 +9,7 @@ Neste projeto foi desenvolvido uma aplicação para o agendamento de barbearia, 
 
 ![HTML](https://img.shields.io/badge/HTML-0077B5?style=for-the-badge&logo=html5&logoColor)
 
-![CSS](https://img.shields.io/badge/CSS-0077B5?style=for-the-badge&logo=css&logoColor)
+![SCSS](https://img.shields.io/badge/SCSS-0077B5?style=for-the-badge&logo=css&logoColor)
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-0077B5?style=for-the-badge&logo=javascript&logoColor)
 
