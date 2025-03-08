@@ -2,6 +2,7 @@
 
 ## 💻 Descrição do Projeto
 # Barber Shop Front End
+
 Neste projeto foi desenvolvido uma aplicação para o agendamento de barbearia, o front end foi desenvolvido com Angular e faz conexão outra [API desenvolvida em Spring Boot (Java), aonde fica o back end da aplicação](https://github.com/SymonSL7/barber-shop-api):
 
 
