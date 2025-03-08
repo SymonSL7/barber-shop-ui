@@ -17,6 +17,7 @@ Neste projeto foi desenvolvido uma aplicação para o agendamento de barbearia, 
 
 ![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular&logoColor)
 
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker&logoColor)
 
 ## Conecte-se comigo
 
