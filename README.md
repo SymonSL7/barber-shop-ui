@@ -7,15 +7,15 @@ Neste projeto foi desenvolvido uma aplicação para o agendamento de barbearia, 
 
 ## 🛠️ Habilidades
 
-![HTML](https://img.shields.io/badge/HTML-0077B5?style=for-the-badge&logo=html5&logoColor)
+![HTML](https://img.shields.io/badge/HTML-0077B5?style=for-the-badge&logo=html5&logoColor=fff)
 
-![SCSS](https://img.shields.io/badge/SCSS-0077B5?style=for-the-badge&logo=css&logoColor)
+![SCSS](https://img.shields.io/badge/SCSS-0077B5?style=for-the-badge&logo=css&logoColor=fff)
 
-![JavaScript](https://img.shields.io/badge/JavaScript-0077B5?style=for-the-badge&logo=javascript&logoColor)
+![JavaScript](https://img.shields.io/badge/JavaScript-0077B5?style=for-the-badge&logo=javascript&logoColor=fff)
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-0077B5?style=for-the-badge&logo=typescript&logoColor=FFF)
 
-![Angular](https://img.shields.io/badge/Angular-0077B5?style=for-the-badge&logo=angular&logoColor)
+![Angular](https://img.shields.io/badge/Angular-0077B5?style=for-the-badge&logo=angular&logoColor=fff)
 
 ![Docker](https://img.shields.io/badge/Docker-0077B5?style=for-the-badge&logo=docker&logoColor=FFF)
 
